@@ -108,15 +108,46 @@ Leading data science initiatives across the complete ML lifecycle:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Impact
 
-![](https://github-readme-stats.vercel.app/api?username=Krishna737Sharma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krishna737Sharma&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna737Sharma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna737Sharma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" />
-</p>
+### 🎯 Building AI Solutions That Matter
+
+**Active Open Source Contributor** | **Production ML Systems** | **Research & Innovation**
+
+</div>
+
+```python
+github_stats = {
+    "focus_areas": [
+        "🤖 AI/ML Research & Development",
+        "👁️ Computer Vision & Deep Learning", 
+        "🎥 Video Processing & Compression",
+        "💬 Multi-Modal AI & RAG Systems",
+        "🌾 AgriTech & Industrial AI"
+    ],
+    
+    "current_work": "Building production-grade ML systems @ TATA Motors",
+    
+    "achievements": {
+        "hackathons": "Top Rank - AgriTech Hackathon 2025",
+        "research": "Deep Learning for Video Coding (IIT Kharagpur)",
+        "teaching": "Teaching Assistant - ML Essentials"
+    },
+    
+    "contributions": "Check out pinned repositories for featured projects ⭐"
+}
+```
+
+<div align="center">
+
+**💡 Explore My Work**
+
+[![Featured Projects](https://img.shields.io/badge/Featured_Projects-View_Below-00D9FF?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects--research)
+[![Repositories](https://img.shields.io/badge/All_Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna737Sharma?tab=repositories)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
