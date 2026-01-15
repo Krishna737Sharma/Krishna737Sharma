@@ -108,26 +108,15 @@ Leading data science initiatives across the complete ML lifecycle:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Krishna737Sharma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krishna737Sharma&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna737Sharma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishna737Sharma&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna737Sharma&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna737Sharma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna737Sharma&theme=radical&hide_border=true" alt="Krishna's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna737Sharma&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</p>
-
-<details>
-  <summary><b>📈 Contribution Graph</b></summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna737Sharma&custom_title=Krishna's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true" />
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
